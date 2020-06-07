@@ -1,0 +1,16 @@
+{
+  "name": "planmill-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": "Philipp Weitz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.19.2",
+    "prettier": "2.0.5",
+    "prompt": "1.0.0"
+  }
+}
